@@ -23,7 +23,7 @@ Welcome to my personal portfolio website! This is a modern, responsive, and inte
 - **CSS3**: Advanced styling with animations and transitions
 - **JavaScript**: Interactive features and DOM manipulation
 - **Local Storage**: Theme preference saving
-- 📊 Technology Breakdown:
+- 📊 Technology Breakdown: 
   
   Technology        Purpose                % of Project
   HTML5          Structure & Content            30%
