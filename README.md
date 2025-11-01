@@ -1,10 +1,6 @@
 # Tejas Kumar D - Personal Portfolio Website
 
 [Portfolio Preview]
-[HTML5]
-[CSS3]
-[JavaScript]
-
 ## 🌟 Overview
 
 Welcome to my personal portfolio website! This is a modern, responsive, and interactive portfolio showcasing my skills, projects, experience, and certifications as a Computer Science student and developer.
@@ -27,7 +23,13 @@ Welcome to my personal portfolio website! This is a modern, responsive, and inte
 - **CSS3**: Advanced styling with animations and transitions
 - **JavaScript**: Interactive features and DOM manipulation
 - **Local Storage**: Theme preference saving
-
+- 📊 Technology Breakdown:
+  
+  Technology        Purpose                % of Project
+  HTML5          Structure & Content            30%
+  CSS3           Styling & Animations           50%
+  JavaScript      Interactivity                 20%
+  
 ## 📂 Project Structure
 ```
 portfolio/
